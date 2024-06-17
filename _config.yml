@@ -10,9 +10,9 @@
 locale                   : "en-US"
 # title                    : "Your Name / Site Title"
 # title_separator          : "-"
-name                     : &name "Sunan Zou"
-description              : &description "Phd Student in Computer Architecture"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://suenar.github.io"
+name                     : "Sunan Zou"
+description              : "Phd Student in Computer Architecture"
+url                      : "https://suenar.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suenar/suenar.github.io"
 
