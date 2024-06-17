@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Architecture, Peking University, 2027 (expected)
+* B.S. in Computer Science and Technology, Peking University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020.07-2022.09: Research Intern
+  * Peking University
+  * Duties includes: Researches on electronic design automation (logic synthesis and high level synthesis).
+  * Supervisor: Professor Guojie Luo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.2-2021.9: Research Intern
+  * Carnegie Mellon University 
+  * Duties included: Researches on logic locking.
+  * Supervisor: Professor Larry Pileggi
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autumn 2021/2022: Teaching Assistant
+  * Peking University
+  * Duties included: Course project design; Grading; Exam and homework suggestion.
+  * Supervisor: Professor Guojie Luo
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Python
 
-Publications
+Awards and Scholarships
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2018 Second Freshmen Scholarship, Peking University
+* 2018 Second Freshmen Scholarship, School of EECS in Peking University
+* 2021 President's Funding in Undergraduate's Research (Science), Peking University
+* 2022 Research Assistant Position Scholarship，Peking University
