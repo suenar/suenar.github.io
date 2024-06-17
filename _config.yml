@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# title                    : "Your Name / Site Title"
+title                    : "Sunan Zou"
 # title_separator          : "-"
 name                     : "Sunan Zou"
 description              : "Phd Student in Computer Architecture"
