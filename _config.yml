@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sunan Zou"
 # title_separator          : "-"
-name                     : "Sunan Zou"
+# name                     : "Sunan Zou"
 description              : "Phd Student in Computer Architecture"
 url                      : "https://suenar.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
