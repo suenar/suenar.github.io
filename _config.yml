@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sunan Zou"
 # title_separator          : "-"
-# name                     : "Sunan Zou"
+name                     : "Sunan Zou"
 description              : "Phd Student in Computer Architecture"
 url                      : "https://suenar.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "suenar/suenar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sunan Zou"
+  # name             : "Sunan Zou"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a Phd student in Peking University focusing on computer architecture and electronic design automation."
+  bio              : "Phd student at Peking University on computer architecture"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
