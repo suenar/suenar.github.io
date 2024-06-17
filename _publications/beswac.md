@@ -1,6 +1,6 @@
 ---
-title: "PowerSyn: A Logic Synthesis Framework With Early Power Optimization"
-collection: Journal
-date: 2024-01-01
-venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems'
+title: "BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call"
+collection: Conference
+date: 2024-03-25
+venue: 'Design, Automation & Test in Europe Conference & Exhibition (DATE)'
 ---
