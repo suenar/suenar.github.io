@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sunan Zou (邹苏南)"
+title: "Sunan Zou"
 author_profile: true
 redirect_from: 
   - /about/
