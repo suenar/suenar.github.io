@@ -58,12 +58,12 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 - **2018** - Freshman Scholarship (**院长新生奖学金**), School of EECS, Peking University
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.09 - 2027.06 (Expected)*, Ph.D. Student, School of Computer Science, Peking University.
 - *2018.09 - 2022.07*, B.S. in Computer Science, School of EECS, Peking University.
 
 
-# 💻 Experiences
+# 💼 Experiences
 - *2025.10 - 2026.04 (Expected)*, National Institute of Informatics (NII), Tokyo, Japan. Advised by Prof. Junichi Yamagishi. Violin Audio Model.
 - *2021.03 - 2021.09*, Carnegie Mellon University (Remote). Advised by Prof. Lawrence Pileggi. GNN and Logic Locking.
 - *2019.07 - 2022.01*, PKU-DASYS Group, Peking University, Beijing, China. Advised by Prof. Guojie Luo. RL and logic optimization.
