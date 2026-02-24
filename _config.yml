@@ -1,55 +1,62 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
 # Site Settings
-title: "Sunan Zou"
-description: "Sunan Zou's Personal Page"
-repository: "suenar/suenar.github.io"
-google_scholar_stats_use_cdn: true
+title                    : "Sunan Zou"
+description              : "Sunan Zou's Personal Page"
+repository               : "suenar/suenar.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification:
-bing_site_verification:
-baidu_site_verification:
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name: "Sunan Zou"
-  avatar: "images/profile.jpg"
-  bio: "PhD Student in Computer Science at Peking University"
-  location: "Beijing, China"
-  employer: "Peking University"
-  pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=-31YAP4AAAAJ&hl=en&oi=ao"
-  email: "zousunan@pku.edu.cn"
-  researchgate:
-  uri: "https://suenar.github.io"
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
-  github: "suenar"
-  google_plus:
-  keybase:
-  instagram:
-  impactstory:
-  lastfm:
-  linkedin: "sunanzou"
-  dblp:
-  orcid: "https://orcid.org/0000-0003-0949-4222"
-  pinterest:
-  soundcloud:
-  stackoverflow:
-  steam:
-  tumblr:
-  twitter:
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
+  name             : "Sunan Zou"
+  avatar           : "images/profile.jpg"
+  bio              : "PhD Student in Computer Science at Peking University"
+  location         : "Beijing, China"
+  employer         : "Peking University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=-31YAP4AAAAJ&hl=en&oi=ao"
+  email            : "zousunan@pku.edu.cn"
+  researchgate     :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : suenar
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         : sunanzou
+  dblp             :
+  orcid            : "https://orcid.org/0000-0003-0949-4222"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -124,12 +131,12 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -139,6 +146,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -148,6 +156,7 @@ whitelist:
 
 
 # HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
