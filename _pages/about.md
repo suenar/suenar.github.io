@@ -17,18 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by Professor [Guojie Luo](https://ceca.pku.edu.cn/people/faculty/lgj/) at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research interests include computer architecture, AI systems, electronic design automation (EDA), and compilers. I have published 9 papers with total <a href='https://scholar.google.com/citations?user=-31YAP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. [[English CV]](files/CV_EN.pdf) [[中文简历]](files/CV_CN.pdf)
+I am a fourth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by Professor [Guojie Luo](https://ceca.pku.edu.cn/people/faculty/lgj/) at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research interests include computer architecture, AI systems and compilers, electronic design automation (EDA). I have published 9 papers with total <a href='https://scholar.google.com/citations?user=-31YAP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. [[English CV]](files/English_CV.pdf) [[中文简历]](files/Chinese_CV.pdf)
 
-I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking University. I have been affiliated with the PKU-DASYS Group with Professor Guojie Luo since 2019. During my undergraduate studies and Ph.D. pursuit, I have focused on efficent LLM system, logic optimization, and domain-specific accelerator design.
+I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking University. I have been affiliated with the PKU-DASYS Group with Professor Guojie Luo since 2019. I also worked as a research intern at Carnegie Mellon University and National Institute of Informatics (Japan). During my undergraduate studies and Ph.D. pursuit, I mainly focused on efficent LLM algorithm and system, electronic design automation, and domain-specific accelerator design.
 
 
 # 📝 Publications
-
-## Journals
-
-\[J2\] [Large Circuit Models: Opportunities and Challenges](https://link.springer.com/article/10.1007/s11432-024-4155-7), Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, et al, and **Sunan Zou** (Alphabetical Order). in Science China Information Sciences, Volume 67, 2024.
-
-\[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43, Issue: 1, Jan 2024, pp. 203-216.
 
 ## Conferences
 
@@ -45,6 +39,13 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 \[C2\] [Incremental SAT-based Exact Synthesis](https://dl.acm.org/doi/10.1145/3649476.3658739), **Sunan Zou**, Jiaxi Zhang, and Guojie Luo. in the Proceedings of the 34th Great Lakes Symposium on VLSI (**GLSVLSI**), 2024. <span style="color: red">**\[Best Paper Award\]**</span>
 
 \[C1\] [BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call](https://ieeexplore.ieee.org/document/10546591/), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
+
+
+## Journals
+
+\[J2\] [Large Circuit Models: Opportunities and Challenges](https://link.springer.com/article/10.1007/s11432-024-4155-7), Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, et al, and **Sunan Zou** (Alphabetical Order). in Science China Information Sciences, Volume 67, 2024.
+
+\[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43, Issue: 1, Jan 2024, pp. 203-216.
 
 
 # 🏆 Honors and Awards
