@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sunan Zou"
   avatar           : "images/profile.jpg"
-  bio              : "PhD Student in Computer Science at Peking University"
+  bio              : "PhD Candidate in Computer Science at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 
