@@ -26,7 +26,7 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 
 ## Conferences
 
-\[C7\] UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators, **Sunan Zou**, Xueting Sun, Ziyun Zhang, and Guojie Luo. to appear in the Proceedings of the 63rd Design Automation Conference (**DAC**), 2026 (To Appear).
+\[C7\] UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators, **Sunan Zou**, Xueting Sun, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 63rd Design Automation Conference (**DAC**), 2026 (To Appear).
 
 \[C6\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), **Sunan Zou**, Bizhao Shi, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024.
 
