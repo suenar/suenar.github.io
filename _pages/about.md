@@ -70,7 +70,7 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 
 
 # 📚 Services
-- Reviewer: IEEE TCAD 2025, 2026
+- Reviewer: IEEE TCAD
 - Teaching Assistant: Introduction to Parallel and Distributed Computing, 2022 Spring & 2023 Spring
 
 # ⚙️ Skills
