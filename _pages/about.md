@@ -66,7 +66,8 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 
 
 # 💼 Experiences
-- *2025.10 - 2026.04 (Expected)*, National Institute of Informatics (Japan), Tokyo, Japan. Advised by Prof. Junichi Yamagishi. Violin Audio Model.
+- *2026.05 - Present*, RedNote Dots, formerly HiLab, Beijing, China. Ace Internship. LLM pretraining infrastructure.
+- *2025.10 - 2026.04*, National Institute of Informatics (Japan), Tokyo, Japan. Advised by Prof. Junichi Yamagishi. Violin Audio Model.
 - *2021.03 - 2021.09*, Carnegie Mellon University (Remote). Advised by Prof. Lawrence Pileggi. GNN and Logic Locking.
 - *2019.07 - 2022.01*, PKU-DASYS Group, Peking University, Beijing, China. Advised by Prof. Guojie Luo. RL and logic optimization.
 
@@ -76,6 +77,6 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 - Teaching Assistant: Introduction to Parallel and Distributed Computing, 2022 Spring & 2023 Spring
 
 # ⚙️ Skills
-- Programming: C/C++, Python (PyTorch), FPGA HLS, Verilog, CUDA, LaTeX
-- Tools: Git, Docker/Apptainer
+- Programming: C/C++, Python (PyTorch), FPGA HLS, Verilog, CUDA
+- Tools: Git, LaTeX, Docker/Apptainer
 - Languages: Chinese (Native), English (Working Proficiency), Japanese (Conversational)
