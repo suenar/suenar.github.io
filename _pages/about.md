@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by Professor [Guojie Luo](https://ceca.pku.edu.cn/people/faculty/lgj/) at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My current research interests include computer architecture, AI systems and compilers, electronic design automation (EDA). I have published 10 papers with total <a href='https://scholar.google.com/citations?user=-31YAP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. [[English CV]](files/English_CV.pdf) [[中文简历]](files/Chinese_CV.pdf)
+I am a fourth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by Professor [Guojie Luo](https://ceca.pku.edu.cn/people/faculty/lgj/) at PKU-DASYS Group (Design Automation for Next-generation Computing Systems). My research interests include LLM systems and infrastructure, domain-specific accelerator and compilation frameworks, and electronic design automation (EDA). I have published 10 papers with total <a href='https://scholar.google.com/citations?user=-31YAP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. [[English CV]](files/English_CV.pdf) [[中文简历]](files/Chinese_CV.pdf)
 
 I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking University. I have been affiliated with the PKU-DASYS Group with Professor Guojie Luo since 2019. I also worked as a research intern at Carnegie Mellon University and National Institute of Informatics (Japan). During my undergraduate studies and Ph.D. pursuit, I mainly focused on efficent LLM algorithm and system, electronic design automation, and domain-specific accelerator design.
 
@@ -66,7 +66,7 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 
 
 # 💼 Experiences
-- *2026.05 - Present*, RedNote Dots, Beijing, China. Ace Internship. LLM pretraining infrastructure.
+- *2026.05 - Present*, RedNote Dots, Beijing, China. Research Intern, ACE Talent Program. LLM pretraining infrastructure.
 - *2025.10 - 2026.04*, National Institute of Informatics (Japan), Tokyo, Japan. Advised by Prof. Junichi Yamagishi. Violin Audio Model.
 - *2021.03 - 2021.09*, Carnegie Mellon University (Remote). Advised by Prof. Lawrence Pileggi. GNN and Logic Locking.
 - *2019.07 - 2022.01*, PKU-DASYS Group, Peking University, Beijing, China. Advised by Prof. Guojie Luo. RL and logic optimization.
