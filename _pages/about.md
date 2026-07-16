@@ -25,29 +25,30 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 # 📝 Publications
 
 ## Conferences
+\[C9\] VioLM: A Neural Language Model for Violin Synthesis with Articulationin, **Sunan Zou**, Zhe Zhang, Yigitcan Özer, Guojie Luo, and Junichi Yamagishi. in the Proceedings of The 27th International Society for Music Information Retrieval Conference (**ISMIR**), 2026. (To Appear)
 
-\[C8\] RTLPilot: Skill-Driven Multi-Agent System for Repository-Level RTL Code Migration, Xiao Tan, Chenyue Li, **Sunan Zou**, and Guojie Luo. in the Proceedings of 2026 International Symposium of EDA (ISEDA), 2026. (To Appear)
+\[C8\] RTLPilot: Skill-Driven Multi-Agent System for Repository-Level RTL Code Migration, Xiao Tan, Chenyue Li, **Sunan Zou**, and Guojie Luo. in the Proceedings of 2026 International Symposium of EDA (**ISEDA**), 2026. (To Appear)
 
 \[C7\] [UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators](https://arxiv.org/abs/2506.17255), **Sunan Zou**, Xueting Sun, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 63rd Design Automation Conference (**DAC**), 2026.
 
-\[C6\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), **Sunan Zou**, Bizhao Shi, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), Nov, 2024.
+\[C6\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), **Sunan Zou**, Bizhao Shi, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), 2024.
 
 \[C5\] [AceRoute: Adaptive Compute-Efficient FPGA Routing with Pluggable Intra-Connection Bidirectional Exploration](https://dl.acm.org/doi/10.1145/3676536.3676709), Xinming Wei, Ziyun Zhang, **Sunan Zou**, Kaiwen Sun, Jiahao Zhang, Jiaxi Zhang, Ping Fan, and Guojie Luo. in the Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), 2024.
 
-\[C4\] [ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA](https://link.springer.com/chapter/10.1007/978-3-031-69577-3_5), Bizhao Shi, Tuo Dai, **Sunan Zou**, Xinming Wei, and Guojie Luo. in the Proceedings of the 30th International European Conference on Parallel and Distributed Computing (**Euro-Par**), Aug, 2024.
+\[C4\] [ImageMap: Enabling Efficient Mapping from Image Processing DSL to CGRA](https://link.springer.com/chapter/10.1007/978-3-031-69577-3_5), Bizhao Shi, Tuo Dai, **Sunan Zou**, Xinming Wei, and Guojie Luo. in the Proceedings of the 30th International European Conference on Parallel and Distributed Computing (**Euro-Par**), 2024.
 
-\[C3\] [PONO: Power Optimization with Near Optimal SMT-based Sub-circuit Generation](https://dl.acm.org/doi/10.1145/3649329.3655904), **Sunan Zou** and Guojie Luo. in the Proceedings of the 61st Design Automation Conference (**DAC**), Jun, 2024.
+\[C3\] [PONO: Power Optimization with Near Optimal SMT-based Sub-circuit Generation](https://dl.acm.org/doi/10.1145/3649329.3655904), **Sunan Zou** and Guojie Luo. in the Proceedings of the 61st Design Automation Conference (**DAC**), 2024.
 
 \[C2\] [Incremental SAT-based Exact Synthesis](https://dl.acm.org/doi/10.1145/3649476.3658739), **Sunan Zou**, Jiaxi Zhang, and Guojie Luo. in the Proceedings of the 34th Great Lakes Symposium on VLSI (**GLSVLSI**), 2024. <span style="color: red">**\[Best Paper Award\]**</span>
 
-\[C1\] [BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call](https://ieeexplore.ieee.org/document/10546591/), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), Mar, 2024.
+\[C1\] [BESWAC: Boosting Exact Synthesis via Wiser SAT Solver Call](https://ieeexplore.ieee.org/document/10546591/), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the Proceedings of 2024 Design Automation and Test in Europe (**DATE**), 2024.
 
 
 ## Journals
 
 \[J2\] [Large Circuit Models: Opportunities and Challenges](https://link.springer.com/article/10.1007/s11432-024-4155-7), Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, et al, and **Sunan Zou** (Alphabetical Order). in Science China Information Sciences, Volume 67, 2024.
 
-\[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43, Issue: 1, Jan 2024, pp. 203-216.
+\[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Volume 43, Issue 1, 2024.
 
 
 # 🏆 Honors and Awards
