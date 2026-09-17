@@ -24,10 +24,6 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 
 # 📝 Publications
 
-## Technical Reports
-
-\[R1\] [xHC: Expanded Hyper-Connections](https://arxiv.org/abs/2607.14530), Xiangdong Zhang, Xiaohan Qin, **Sunan Zou**, Tuo Dai, et al. arXiv preprint, arXiv:2607.14530, 2026.
-
 ## Conferences
 \[C9\] VioLM: A Neural Language Model for Violin Synthesis with Articulation, **Sunan Zou**, Zhe Zhang, Yigitcan Özer, Guojie Luo, and Junichi Yamagishi. in the Proceedings of The 27th International Society for Music Information Retrieval Conference (**ISMIR**), 2026. (To Appear)
 
@@ -54,6 +50,9 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 
 \[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Volume 43, Issue 1, 2024.
 
+## Technical Reports
+
+\[R1\] [xHC: Expanded Hyper-Connections](https://arxiv.org/abs/2607.14530), Xiangdong Zhang, Xiaohan Qin, **Sunan Zou**, Tuo Dai, et al. arXiv preprint, arXiv:2607.14530, 2026.
 
 # 🏆 Honors and Awards
 - **2024** - Honors for Merit Student (**三好学生**), Peking Unniversity
