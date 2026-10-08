@@ -1,10 +1,13 @@
 from scholarly import scholarly
-import jsonpickle
 import json
 from datetime import datetime
 import os
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID', '').strip()
+if not scholar_id:
+    raise SystemExit('GOOGLE_SCHOLAR_ID is missing. Set it in the repository Actions secrets.')
+
+author: dict = scholarly.search_author_id(scholar_id)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())

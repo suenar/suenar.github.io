@@ -5,30 +5,44 @@ on:
   schedule:
     - cron: '0 8 * * *'
 
+permissions:
+  contents: write
+
+concurrency:
+  group: google-scholar-stats
+  cancel-in-progress: false
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.11'
-    - name: Install Reqs
+        cache: pip
+        cache-dependency-path: google_scholar_crawler/requirements.txt
+    - name: Install dependencies
       run: |
-        pip install -r google_scholar_crawler/requirements.txt
-    - name: Run
+        python -m pip install -r google_scholar_crawler/requirements.txt
+        python -m pip check
+        python -c "from scholarly import scholarly"
+    - name: Fetch Google Scholar data
+      working-directory: google_scholar_crawler
+      run: python main.py
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Publish citation data
+      working-directory: google_scholar_crawler/results
       run: |
-        cd ./google_scholar_crawler
-        python main.py
-        cd ./results
-        git init
+        git init --initial-branch=google-scholar-stats
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
+        remote_repo="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git add gs_data.json gs_data_shieldsio.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env:
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        GH_TOKEN: ${{ github.token }}
