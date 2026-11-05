@@ -25,11 +25,11 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 # 📝 Publications
 
 ## Conferences
-\[C9\] VioLM: A Neural Language Model for Violin Synthesis with Articulation, **Sunan Zou**, Zhe Zhang, Yigitcan Özer, Guojie Luo, and Junichi Yamagishi. in the Proceedings of The 27th International Society for Music Information Retrieval Conference (**ISMIR**), 2026. (To Appear)
+\[C9\] [VioLM: A Neural Language Model for Violin Synthesis with Articulation](https://ismir2026program.ismir.net/poster_230.html#paper), **Sunan Zou**, Zhe Zhang, Yigitcan Özer, Guojie Luo, and Junichi Yamagishi. in the Proceedings of The 27th International Society for Music Information Retrieval Conference (**ISMIR**), 2026.
 
-\[C8\] RTLPilot: Skill-Driven Multi-Agent System for Repository-Level RTL Code Migration, Xiao Tan, Chenyue Li, **Sunan Zou**, and Guojie Luo. in the Proceedings of 2026 International Symposium of EDA (**ISEDA**), 2026. (To Appear)
+\[C8\] [RTLPilot: Skill-Driven Multi-Agent System for Repository-Level RTL Code Migration](https://ieeexplore.ieee.org/abstract/document/11751460), Xiao Tan, Chenyue Li, **Sunan Zou**, and Guojie Luo. in the Proceedings of 2026 International Symposium of EDA (**ISEDA**), 2026.
 
-\[C7\] [UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators](https://arxiv.org/abs/2506.17255), **Sunan Zou**, Xueting Sun, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 63rd Design Automation Conference (**DAC**), 2026.
+\[C7\] [UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators](https://dl.acm.org/doi/abs/10.1145/3770743.3804314), **Sunan Zou**, Xueting Sun, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 63rd Design Automation Conference (**DAC**), 2026.
 
 \[C6\] [MuSA: Multi-Sketch Accelerator with Hybrid Parallelism and Coalesced Memory Organization](https://ieeexplore.ieee.org/document/10817985), **Sunan Zou**, Bizhao Shi, Ziyun Zhang, and Guojie Luo. in the Proceedings of the 42nd International Conference on Computer Design (**ICCD**), 2024.
 
@@ -51,6 +51,8 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 \[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Volume 43, Issue 1, 2024.
 
 ## Technical Reports
+
+\[R2\] [Multi-Stream Attention Residuals](https://arxiv.org/abs/2610.13630), Xiaohan Qin, Xiangdong Zhang, Tuo Dai, **Sunan Zou**, et al. arXiv preprint, arXiv:2610.13630, 2026.
 
 \[R1\] [xHC: Expanded Hyper-Connections](https://arxiv.org/abs/2607.14530), Xiangdong Zhang, Xiaohan Qin, **Sunan Zou**, Tuo Dai, et al. arXiv preprint, arXiv:2607.14530, 2026.
 
@@ -81,6 +83,6 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 - Teaching Assistant: Introduction to Parallel and Distributed Computing, 2022 Spring & 2023 Spring
 
 # ⚙️ Skills
-- Programming: C/C++, Python (PyTorch), FPGA HLS, Verilog, CUDA
+- Programming: C/C++, Python (PyTorch), FPGA HLS, CUDA
 - Tools: Git, LaTeX, Docker/Apptainer
 - Languages: Chinese (Native), English (Working Proficiency), Japanese (Conversational)
