@@ -51,6 +51,7 @@ I obtained my B.S. in Computer Science in 2022 from the School of EECS at Peking
 \[J1\] [PowerSyn: A Logic Synthesis Framework with Early Power Optimization](https://ieeexplore.ieee.org/document/10186351), **Sunan Zou**, Jiaxi Zhang, Bizhao Shi, and Guojie Luo. in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Volume 43, Issue 1, 2024.
 
 ## Technical Reports
+\[R3\] [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](https://arxiv.org/abs/2611.05984), Xiangdong Zhang, Xiaohan Qin, **Sunan Zou**, Tuo Dai, et al. arXiv:2611.05984, 2026.
 
 \[R2\] [Multi-Stream Attention Residuals](https://arxiv.org/abs/2610.13630), Xiaohan Qin, Xiangdong Zhang, Tuo Dai, **Sunan Zou**, et al. arXiv preprint, arXiv:2610.13630, 2026.
 
